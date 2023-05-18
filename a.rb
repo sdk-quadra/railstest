@@ -11,7 +11,7 @@ if 1 == 2
 end
 
 if val1 == val2
-  p "yes"
+  p "no!!!!!!!"
 end
 
 if z == z
